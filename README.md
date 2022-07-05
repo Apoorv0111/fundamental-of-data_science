@@ -1,1 +1,2 @@
 # fundamental-of-data_science
+THIS SUUGEST DIFFRENT STAGES OF DATA SCIENCE PROJECTS
